@@ -1,0 +1,1541 @@
+[
+  {
+    "tag": { "title": "Kiểm tra môn Sinh học - HOCMAI" },
+    "title": "Bài tập tự luyện",
+    "subtitle": "Biến dị",
+    "questions": [
+      {
+        "content": "\n    Giả sử 1 gen chỉ được cấu tạo từ 2 loại nuclêôtit G và X. Trên mạch gốc của gen đó có thể có tối đa:",
+        "info": "\n\t1.\n      ",
+        "answers": [
+          {
+            "content": "\n                <label for=\"resp6505_110346\">\n                    <span class=\"under_an\">A</span>. 8 loại mã bộ 3                </label>\n            ",
+            "id": "resp6505_110346",
+            "value": "110346"
+          },
+          {
+            "content": "\n                <label for=\"resp6505_110344\">\n                    <span class=\"under_an\">B</span>. 64 loại mã bộ 3                </label>\n            ",
+            "id": "resp6505_110344",
+            "value": "110344"
+          },
+          {
+            "content": "\n                <label for=\"resp6505_110345\">\n                    <span class=\"under_an\">C</span>. 16 loại mã bộ 3                </label>\n            ",
+            "id": "resp6505_110345",
+            "value": "110345"
+          },
+          {
+            "content": "\n                <label for=\"resp6505_110343\">\n                    <span class=\"under_an\">D</span>. 2 loại mã bộ 3                </label>\n            ",
+            "id": "resp6505_110343",
+            "value": "110343"
+          }
+        ]
+      },
+      {
+        "content": "\n      Số câu hỏi ngẫu nhiên được yêu cầu thì nhiều hơn danh mục này chứa đựng ! ()    ",
+        "info": "\n    \n  ",
+        "answers": []
+      },
+      {
+        "content": "\n    Hiện tượng nào sau đây là đột biến gen?",
+        "info": "\n\t3.\n      ",
+        "answers": [
+          {
+            "content": "\n                <label for=\"resp6504_74610\">\n                    <span class=\"under_an\">A</span>. Biến đổi cấu trúc của gen tại một điểm nào đó trên phân tử ADN.<br>                </label>\n            ",
+            "id": "resp6504_74610",
+            "value": "74610"
+          },
+          {
+            "content": "\n                <label for=\"resp6504_74608\">\n                    <span class=\"under_an\">B</span>. Mất đi một gen trên phân tử ADN.                </label>\n            ",
+            "id": "resp6504_74608",
+            "value": "74608"
+          },
+          {
+            "content": "\n                <label for=\"resp6504_74607\">\n                    <span class=\"under_an\">C</span>. Thêm một gen trên phân tử ADN.<br>                </label>\n            ",
+            "id": "resp6504_74607",
+            "value": "74607"
+          },
+          {
+            "content": "\n                <label for=\"resp6504_74609\">\n                    <span class=\"under_an\">D</span>. Thay thế một gen này bằng một gen khác.                </label>\n            ",
+            "id": "resp6504_74609",
+            "value": "74609"
+          }
+        ]
+      },
+      {
+        "content": "\n    Trình tự nuclêôtit mạch bổ sung với mạch gốc của gen như sau: A G X T T A G X A. Phân tử mARN được tổng hợp từ gen này có trình tự các ribônuclêôtit là:",
+        "info": "\n\t4.\n      ",
+        "answers": [
+          {
+            "content": "\n                <label for=\"resp6506_108992\">\n                    <span class=\"under_an\">A</span>. T X G A A T X G T                </label>\n            ",
+            "id": "resp6506_108992",
+            "value": "108992"
+          },
+          {
+            "content": "\n                <label for=\"resp6506_108993\">\n                    <span class=\"under_an\">B</span>. A G X T T A G X A                </label>\n            ",
+            "id": "resp6506_108993",
+            "value": "108993"
+          },
+          {
+            "content": "\n                <label for=\"resp6506_108990\">\n                    <span class=\"under_an\">C</span>. A G X U U A G X A                </label>\n            ",
+            "id": "resp6506_108990",
+            "value": "108990"
+          },
+          {
+            "content": "\n                <label for=\"resp6506_108991\">\n                    <span class=\"under_an\">D</span>. U X G A A U X G U                </label>\n            ",
+            "id": "resp6506_108991",
+            "value": "108991"
+          }
+        ]
+      },
+      {
+        "content": "\n      Số câu hỏi ngẫu nhiên được yêu cầu thì nhiều hơn danh mục này chứa đựng ! ()    ",
+        "info": "\n    \n  ",
+        "answers": []
+      },
+      {
+        "content": "\n    Chiều dài phân tử ADN bằng 5100\\[A^o \\]; có hiệu số % giữa nuclêôtit loại A với một loại nuclêôtit khác là 30% tổng số nuclêôtit của phân tử ADN. Số nuclêôtit của phân tử ADN là:",
+        "info": "\n\t6.\n      ",
+        "answers": [
+          {
+            "content": "\n                <label for=\"resp6508_80073\">\n                    <span class=\"under_an\">A</span>. 3500 nuclêôtit                </label>\n            ",
+            "id": "resp6508_80073",
+            "value": "80073"
+          },
+          {
+            "content": "\n                <label for=\"resp6508_80072\">\n                    <span class=\"under_an\">B</span>. 3000 nuclêôtit                </label>\n            ",
+            "id": "resp6508_80072",
+            "value": "80072"
+          },
+          {
+            "content": "\n                <label for=\"resp6508_80071\">\n                    <span class=\"under_an\">C</span>. 2500 nuclêôtit                </label>\n            ",
+            "id": "resp6508_80071",
+            "value": "80071"
+          },
+          {
+            "content": "\n                <label for=\"resp6508_80070\">\n                    <span class=\"under_an\">D</span>. 2000 nuclêôtit                </label>\n            ",
+            "id": "resp6508_80070",
+            "value": "80070"
+          }
+        ]
+      },
+      {
+        "content": "\n    Những dạng đột biến gen nào sau đây không làm thay đổi tổng số nuclêôtit và số liên kết hiđrô so với gen ban đầu?",
+        "info": "\n\t7.\n      ",
+        "answers": [
+          {
+            "content": "\n                <label for=\"resp6503_74443\">\n                    <span class=\"under_an\">A</span>. Mất một cặp nuclêôtit và thay thế 1 cặp nuclêôtit có cùng số liên kết hiđrô.                </label>\n            ",
+            "id": "resp6503_74443",
+            "value": "74443"
+          },
+          {
+            "content": "\n                <label for=\"resp6503_74441\">\n                    <span class=\"under_an\">B</span>. Mất một cặp nuclêôtit và đảo vị trí 1 cặp nuclêôtit.                </label>\n            ",
+            "id": "resp6503_74441",
+            "value": "74441"
+          },
+          {
+            "content": "\n                <label for=\"resp6503_74444\">\n                    <span class=\"under_an\">C</span>. Thay thế 1 cặp nuclêôtit và thêm 1 cặp nuclêôtit.                </label>\n            ",
+            "id": "resp6503_74444",
+            "value": "74444"
+          },
+          {
+            "content": "\n                <label for=\"resp6503_74442\">\n                    <span class=\"under_an\">D</span>. Đảo một cặp nuclêôtit và thay thế 1 cặp nuclêôtit có cùng số liên kết hiđrô.                </label>\n            ",
+            "id": "resp6503_74442",
+            "value": "74442"
+          }
+        ]
+      },
+      {
+        "content": "\n    Gen A có 1068 liên kết hyđrô, trong gen có chứa 186 nuclêôtit loại Guanim. Gen A bị đột biến thành gen a nhiều hơn gen A là 2 liên kết hyđrô nhưng chiều dài 2 gen vẫn bằng nhau. Số nuclêôtit mỗi loại trong gen A và gen a là:",
+        "info": "\n\t8.\n      ",
+        "answers": [
+          {
+            "content": "\n                <label for=\"resp6502_208945\">\n                    <span class=\"under_an\">A</span>. A<sub>A</sub> = T<sub>A </sub>= 255 Nu; G<sub>A</sub> = X<sub>A</sub> = 186 Nu; A<sub>a</sub> = T<sub>a</sub><sub></sub>= 253 Nu; G<sub>a</sub> = X<sub>a</sub> = 188 Nu                </label>\n            ",
+            "id": "resp6502_208945",
+            "value": "208945"
+          },
+          {
+            "content": "\n                <label for=\"resp6502_208946\">\n                    <span class=\"under_an\">B</span>. A<sub>A</sub> = T<sub>A </sub>= 253 Nu; G<sub>A</sub> = X<sub>A</sub> = 188 Nu; A<sub>a </sub>= T<sub>a</sub> = 255 Nu; G<sub>a</sub> = X<sub>a</sub> = 186 Nu                </label>\n            ",
+            "id": "resp6502_208946",
+            "value": "208946"
+          },
+          {
+            "content": "\n                <label for=\"resp6502_208947\">\n                    <span class=\"under_an\">C</span>. A<sub>A</sub> = T<sub>A </sub>= 253 Nu; G<sub>A</sub> = X<sub>A </sub>= 186 Nu; A<sub>a </sub>= T<sub>a</sub> = 255 Nu; G<sub>a</sub> = X<sub>a</sub> = 188 Nu                </label>\n            ",
+            "id": "resp6502_208947",
+            "value": "208947"
+          },
+          {
+            "content": "\n                <label for=\"resp6502_208944\">\n                    <span class=\"under_an\">D</span>. A<sub>A</sub> = T<sub>A</sub> = 255 Nu; G<sub>A</sub> = X<sub>A</sub> = 186 Nu; A<sub>a</sub> = T<sub>a</sub> = 257 Nu; G<sub>a </sub>= X<sub>a</sub> = 184 Nu                </label>\n            ",
+            "id": "resp6502_208944",
+            "value": "208944"
+          }
+        ]
+      },
+      {
+        "content": "\n      Số câu hỏi ngẫu nhiên được yêu cầu thì nhiều hơn danh mục này chứa đựng ! ()    ",
+        "info": "\n    \n  ",
+        "answers": []
+      },
+      {
+        "content": "\n    Bộ NST trong tế bào sinh dưỡng của một cá thể được ký hiệu là 2n+1, đó là dạng đột biến nào?",
+        "info": "\n\t10.\n      ",
+        "answers": [
+          {
+            "content": "\n                <label for=\"resp6507_187028\">\n                    <span class=\"under_an\">A</span>. Thể tam nhiễm.                </label>\n            ",
+            "id": "resp6507_187028",
+            "value": "187028"
+          },
+          {
+            "content": "\n                <label for=\"resp6507_187030\">\n                    <span class=\"under_an\">B</span>. Thể khuyết nhiễm.                </label>\n            ",
+            "id": "resp6507_187030",
+            "value": "187030"
+          },
+          {
+            "content": "\n                <label for=\"resp6507_187027\">\n                    <span class=\"under_an\">C</span>. Thể một nhiễm.                </label>\n            ",
+            "id": "resp6507_187027",
+            "value": "187027"
+          },
+          {
+            "content": "\n                <label for=\"resp6507_187029\">\n                    <span class=\"under_an\">D</span>. Thể đa nhiễm.                </label>\n            ",
+            "id": "resp6507_187029",
+            "value": "187029"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tag": { "title": "Kiểm tra môn Sinh học - HOCMAI" },
+    "title": "Bài tập tự luyện",
+    "subtitle": "Ứng dụng di truyền học vào chọn giống",
+    "questions": [
+      {
+        "content": "\n    Chọn lọc cá thể không áp dụng trong phạm vi:",
+        "info": "\n\t1.\n      ",
+        "answers": [
+          {
+            "content": "\n                <label for=\"resp6649_75739\">\n                    <span class=\"under_an\">A</span>. Những tính trạng có hệ số di truyền thấp.<br>                </label>\n            ",
+            "id": "resp6649_75739",
+            "value": "75739"
+          },
+          {
+            "content": "\n                <label for=\"resp6649_75741\">\n                    <span class=\"under_an\">B</span>. Đối với cây giao phấn chọn lọc cá thể nhiều lần.<br>                </label>\n            ",
+            "id": "resp6649_75741",
+            "value": "75741"
+          },
+          {
+            "content": "\n                <label for=\"resp6649_75740\">\n                    <span class=\"under_an\">C</span>. Dòng tự thụ phấn chọn lọc cá thể một lần.<br>                </label>\n            ",
+            "id": "resp6649_75740",
+            "value": "75740"
+          },
+          {
+            "content": "\n                <label for=\"resp6649_75742\">\n                    <span class=\"under_an\">D</span>. Những tính trạng có hệ số di truyền cao.<br>                </label>\n            ",
+            "id": "resp6649_75742",
+            "value": "75742"
+          }
+        ]
+      },
+      {
+        "content": "\n    Trong chọn giống thực vật, việc chiếu xạ để gây đột biến nhân tạo thường không được thực hiện ở:",
+        "info": "\n\t2.\n      ",
+        "answers": [
+          {
+            "content": "\n                <label for=\"resp6646_75605\">\n                    <span class=\"under_an\">A</span>. Đỉnh sinh trưởng.                </label>\n            ",
+            "id": "resp6646_75605",
+            "value": "75605"
+          },
+          {
+            "content": "\n                <label for=\"resp6646_75604\">\n                    <span class=\"under_an\">B</span>. Hạt phấn, bầu nhụy.                </label>\n            ",
+            "id": "resp6646_75604",
+            "value": "75604"
+          },
+          {
+            "content": "\n                <label for=\"resp6646_75606\">\n                    <span class=\"under_an\">C</span>. Rễ.                </label>\n            ",
+            "id": "resp6646_75606",
+            "value": "75606"
+          },
+          {
+            "content": "\n                <label for=\"resp6646_75603\">\n                    <span class=\"under_an\">D</span>. Hạt khô, hạt nảy mầm.                </label>\n            ",
+            "id": "resp6646_75603",
+            "value": "75603"
+          }
+        ]
+      },
+      {
+        "content": "\n    Các đoạn ADN được cắt ra từ hai phân tử ADN (cho và nhận) và được nối lại nhờ xúc tác của các enzim:",
+        "info": "\n\t3.\n      ",
+        "answers": [
+          {
+            "content": "\n                <label for=\"resp6643_131523\">\n                    <span class=\"under_an\">A</span>. ADN restrictaza.                </label>\n            ",
+            "id": "resp6643_131523",
+            "value": "131523"
+          },
+          {
+            "content": "\n                <label for=\"resp6643_131524\">\n                    <span class=\"under_an\">B</span>. ADN ligaza.                </label>\n            ",
+            "id": "resp6643_131524",
+            "value": "131524"
+          },
+          {
+            "content": "\n                <label for=\"resp6643_131525\">\n                    <span class=\"under_an\">C</span>. ADN restrictaz và ADN ligaza.                </label>\n            ",
+            "id": "resp6643_131525",
+            "value": "131525"
+          },
+          {
+            "content": "\n                <label for=\"resp6643_131522\">\n                    <span class=\"under_an\">D</span>. ADN polimeraza.                </label>\n            ",
+            "id": "resp6643_131522",
+            "value": "131522"
+          }
+        ]
+      },
+      {
+        "content": "\n    Điền vào chỗ trống:Để hạ giá thành sản xuất thuốc chữa bệnh tiểu đường, người ta dùng plamit làm thể truyền để chuyển gen mã hoá hoocmôn....... của người vào vi khuẩn E.coli:",
+        "info": "\n\t4.\n      ",
+        "answers": [
+          {
+            "content": "\n                <label for=\"resp6651_187761\">\n                    <span class=\"under_an\">A</span>. Insulin.                </label>\n            ",
+            "id": "resp6651_187761",
+            "value": "187761"
+          },
+          {
+            "content": "\n                <label for=\"resp6651_187760\">\n                    <span class=\"under_an\">B</span>. Glucagon.<br>                </label>\n            ",
+            "id": "resp6651_187760",
+            "value": "187760"
+          },
+          {
+            "content": "\n                <label for=\"resp6651_187763\">\n                    <span class=\"under_an\">C</span>. Glucagon và Insulin<br>                </label>\n            ",
+            "id": "resp6651_187763",
+            "value": "187763"
+          },
+          {
+            "content": "\n                <label for=\"resp6651_187762\">\n                    <span class=\"under_an\">D</span>. Tiroxin.<br>                </label>\n            ",
+            "id": "resp6651_187762",
+            "value": "187762"
+          }
+        ]
+      },
+      {
+        "content": "\n    Nguyên nhân của hiện tượng bất thụ ở con lai xa là:",
+        "info": "\n\t5.\n      ",
+        "answers": [
+          {
+            "content": "\n                <label for=\"resp6645_75838\">\n                    <span class=\"under_an\">A</span>. Tất cả các giải thích trên.                </label>\n            ",
+            "id": "resp6645_75838",
+            "value": "75838"
+          },
+          {
+            "content": "\n                <label for=\"resp6645_75837\">\n                    <span class=\"under_an\">B</span>. Hạt phấn của loài này không nảy mầm được trên vòi nhuỵ của loài kia ở thực vật, hoặc tinh trùng của loài này không sống được trong đường sinh dục của loài kia.                </label>\n            ",
+            "id": "resp6645_75837",
+            "value": "75837"
+          },
+          {
+            "content": "\n                <label for=\"resp6645_75836\">\n                    <span class=\"under_an\">C</span>. Sự khác biệt trong chu kì sinh sản bộ máy sinh dục không tương ứng ở động vật.                </label>\n            ",
+            "id": "resp6645_75836",
+            "value": "75836"
+          },
+          {
+            "content": "\n                <label for=\"resp6645_75835\">\n                    <span class=\"under_an\">D</span>. Bộ nhiễm sắc thể của 2 loài khác nhau gây ra trở ngại trong quá trình phát sinh giao tử ở con lai.                </label>\n            ",
+            "id": "resp6645_75835",
+            "value": "75835"
+          }
+        ]
+      },
+      {
+        "content": "\n    Trong kĩ thuật tạo dòng ADN tái tổ hợp thao tác được thực hiện theo trình tự sau:",
+        "info": "\n\t6.\n      ",
+        "answers": [
+          {
+            "content": "\n                <label for=\"resp6650_131519\">\n                    <span class=\"under_an\">A</span>. Nối ADN cho và nhận\\[ \\to \\] Phân lập ADN \\[ \\to \\] Cắt các phân tử ADN.                </label>\n            ",
+            "id": "resp6650_131519",
+            "value": "131519"
+          },
+          {
+            "content": "\n                <label for=\"resp6650_131520\">\n                    <span class=\"under_an\">B</span>. Nối ADN cho và nhận \\[ \\to \\] Cắt các phân tử ADN \\[ \\to \\] Phân lập ADN.                </label>\n            ",
+            "id": "resp6650_131520",
+            "value": "131520"
+          },
+          {
+            "content": "\n                <label for=\"resp6650_131518\">\n                    <span class=\"under_an\">C</span>. Cắt các phân tử ADN \\[ \\to \\] Phân lập ADN \\[ \\to \\] Nối ADN cho và nhận.                </label>\n            ",
+            "id": "resp6650_131518",
+            "value": "131518"
+          },
+          {
+            "content": "\n                <label for=\"resp6650_131517\">\n                    <span class=\"under_an\">D</span>. Phân lập ADN \\[ \\to \\] Cắt các phân tử ADN \\[ \\to \\] Nối ADN cho và nhận.                </label>\n            ",
+            "id": "resp6650_131517",
+            "value": "131517"
+          }
+        ]
+      },
+      {
+        "content": "\n    Người ta thường dùng vi khuẩn E.coli làm tế bào nhận, vì:",
+        "info": "\n\t7.\n      ",
+        "answers": [
+          {
+            "content": "\n                <label for=\"resp6647_75756\">\n                    <span class=\"under_an\">A</span>. Vi khuẩn E. coli sinh sản nhanh.                </label>\n            ",
+            "id": "resp6647_75756",
+            "value": "75756"
+          },
+          {
+            "content": "\n                <label for=\"resp6647_75758\">\n                    <span class=\"under_an\">B</span>. Vi khuẩn E. coli không gây hại cho sinh vật.                </label>\n            ",
+            "id": "resp6647_75758",
+            "value": "75758"
+          },
+          {
+            "content": "\n                <label for=\"resp6647_75755\">\n                    <span class=\"under_an\">C</span>. Vi khuẩn E.coli có nhiều trong môi trường.                </label>\n            ",
+            "id": "resp6647_75755",
+            "value": "75755"
+          },
+          {
+            "content": "\n                <label for=\"resp6647_75757\">\n                    <span class=\"under_an\">D</span>. Vi khuẩn E. coli dễ nuôi cấy.                </label>\n            ",
+            "id": "resp6647_75757",
+            "value": "75757"
+          }
+        ]
+      },
+      {
+        "content": "\n    Một trong những ứng dụng của kỹ thuật di truyền là",
+        "info": "\n\t8.\n      ",
+        "answers": [
+          {
+            "content": "\n                <label for=\"resp6648_131513\">\n                    <span class=\"under_an\">A</span>. Tạo thế song nhị bội                </label>\n            ",
+            "id": "resp6648_131513",
+            "value": "131513"
+          },
+          {
+            "content": "\n                <label for=\"resp6648_131514\">\n                    <span class=\"under_an\">B</span>. Tạo các giống cây ăn quả không hạt                </label>\n            ",
+            "id": "resp6648_131514",
+            "value": "131514"
+          },
+          {
+            "content": "\n                <label for=\"resp6648_131512\">\n                    <span class=\"under_an\">C</span>. Sản xuất lượng lớn protein trong thời gian ngắn.                </label>\n            ",
+            "id": "resp6648_131512",
+            "value": "131512"
+          },
+          {
+            "content": "\n                <label for=\"resp6648_131515\">\n                    <span class=\"under_an\">D</span>. Tạo ưu thế lai                </label>\n            ",
+            "id": "resp6648_131515",
+            "value": "131515"
+          }
+        ]
+      },
+      {
+        "content": "\n    Một cơ thể thực vật, có kiểu gen AaBb sau quá trình tự thụ phấn kết hợp với chọn lọc có thể tạo ra bao nhiêu dòng thuần về 2 tính trạng trội (biết rằng A, B trội hoàn toàn so với a, b)?",
+        "info": "\n\t9.\n      ",
+        "answers": [
+          {
+            "content": "\n                <label for=\"resp6652_131633\">\n                    <span class=\"under_an\">A</span>. 2.                </label>\n            ",
+            "id": "resp6652_131633",
+            "value": "131633"
+          },
+          {
+            "content": "\n                <label for=\"resp6652_131634\">\n                    <span class=\"under_an\">B</span>. 3.                </label>\n            ",
+            "id": "resp6652_131634",
+            "value": "131634"
+          },
+          {
+            "content": "\n                <label for=\"resp6652_131632\">\n                    <span class=\"under_an\">C</span>. 1.                </label>\n            ",
+            "id": "resp6652_131632",
+            "value": "131632"
+          },
+          {
+            "content": "\n                <label for=\"resp6652_131635\">\n                    <span class=\"under_an\">D</span>. 4.                </label>\n            ",
+            "id": "resp6652_131635",
+            "value": "131635"
+          }
+        ]
+      },
+      {
+        "content": "\n    Trường hợp lai xa, con lai nếu có bộ NST tăng lên một số lần so với bộ NST đơn bội gọi là:",
+        "info": "\n\t10.\n      ",
+        "answers": [
+          {
+            "content": "\n                <label for=\"resp6644_131494\">\n                    <span class=\"under_an\">A</span>. Thể dị bội<br>                </label>\n            ",
+            "id": "resp6644_131494",
+            "value": "131494"
+          },
+          {
+            "content": "\n                <label for=\"resp6644_131493\">\n                    <span class=\"under_an\">B</span>. Thể song nhị bội.<br>                </label>\n            ",
+            "id": "resp6644_131493",
+            "value": "131493"
+          },
+          {
+            "content": "\n                <label for=\"resp6644_131492\">\n                    <span class=\"under_an\">C</span>. Thể đa nhiễm.<br>                </label>\n            ",
+            "id": "resp6644_131492",
+            "value": "131492"
+          },
+          {
+            "content": "\n                <label for=\"resp6644_131495\">\n                    <span class=\"under_an\">D</span>. Thể đa bội dị nguyên (đa bội khác nguồn)<br>                </label>\n            ",
+            "id": "resp6644_131495",
+            "value": "131495"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tag": { "title": "Kiểm tra môn Sinh học - HOCMAI" },
+    "title": "Bài tập tự luyện",
+    "subtitle": "Di truyền học người",
+    "questions": [
+      {
+        "content": "\n    Trong phương pháp phả hệ, việc xây dựng phả hệ phải được thực hiện qua ít nhất là",
+        "info": "\n\t1.\n      ",
+        "answers": [
+          {
+            "content": "\n                <label for=\"resp6709_218983\">\n                    <span class=\"under_an\">A</span>. 3 thế hệ                </label>\n            ",
+            "id": "resp6709_218983",
+            "value": "218983"
+          },
+          {
+            "content": "\n                <label for=\"resp6709_218984\">\n                    <span class=\"under_an\">B</span>. 5 thế hệ                </label>\n            ",
+            "id": "resp6709_218984",
+            "value": "218984"
+          },
+          {
+            "content": "\n                <label for=\"resp6709_218982\">\n                    <span class=\"under_an\">C</span>. 2 thế hệ                </label>\n            ",
+            "id": "resp6709_218982",
+            "value": "218982"
+          },
+          {
+            "content": "\n                <label for=\"resp6709_218985\">\n                    <span class=\"under_an\">D</span>. 10 thế hệ                </label>\n            ",
+            "id": "resp6709_218985",
+            "value": "218985"
+          }
+        ]
+      },
+      {
+        "content": "\n    Phương pháp nghiên cứu trẻ đồng sinh được tiến hành:",
+        "info": "\n\t2.\n      ",
+        "answers": [
+          {
+            "content": "\n                <label for=\"resp6710_76006\">\n                    <span class=\"under_an\">A</span>. Nuôi các trẻ đồng sinh cùng trứng trong hoàn cảnh đồng nhất hoặc nuôi tách trong hoàn cảnh khác nhau; nuôi các trẻ đồng sinh cùng trứng và đồng sinh khác trứng trong hoàn cảnh đồng nhất và so sánh với nhau.                </label>\n            ",
+            "id": "resp6710_76006",
+            "value": "76006"
+          },
+          {
+            "content": "\n                <label for=\"resp6710_76004\">\n                    <span class=\"under_an\">B</span>. Nuôi các trẻ đồng sinh khác trứng trong hoàn cảnh đồng nhất hoặc nuôi tách trong hoàn cảnh khác nhau.<br>                </label>\n            ",
+            "id": "resp6710_76004",
+            "value": "76004"
+          },
+          {
+            "content": "\n                <label for=\"resp6710_76005\">\n                    <span class=\"under_an\">C</span>. Nuôi các trẻ đồng sinh cùng trứng và đồng sinh khác trứng trong hoàn cảnh đồng nhất và so sánh với nhau.<br>                </label>\n            ",
+            "id": "resp6710_76005",
+            "value": "76005"
+          },
+          {
+            "content": "\n                <label for=\"resp6710_76003\">\n                    <span class=\"under_an\">D</span>. Nuôi các trẻ đồng sinh cùng trứng trong hoàn cảnh đồng nhất hoặc nuôi tách trong hoàn cảnh khác nhau.<br>                </label>\n            ",
+            "id": "resp6710_76003",
+            "value": "76003"
+          }
+        ]
+      },
+      {
+        "content": "\n    Để phát hiện bệnh bạch cầu ác tính do mất đoạn nhiễm sắc thể 21, là nhờ phương pháp:",
+        "info": "\n\t3.\n      ",
+        "answers": [
+          {
+            "content": "\n                <label for=\"resp6712_188131\">\n                    <span class=\"under_an\">A</span>. Nghiên cứu tế bào.                </label>\n            ",
+            "id": "resp6712_188131",
+            "value": "188131"
+          },
+          {
+            "content": "\n                <label for=\"resp6712_188128\">\n                    <span class=\"under_an\">B</span>. Nghiên cứu phả hệ.                </label>\n            ",
+            "id": "resp6712_188128",
+            "value": "188128"
+          },
+          {
+            "content": "\n                <label for=\"resp6712_188129\">\n                    <span class=\"under_an\">C</span>. Nghiên cứu người sinh đôi cùng trứng.                </label>\n            ",
+            "id": "resp6712_188129",
+            "value": "188129"
+          },
+          {
+            "content": "\n                <label for=\"resp6712_188130\">\n                    <span class=\"under_an\">D</span>. Nghiên cứu người sinh đôi khác trứng.                </label>\n            ",
+            "id": "resp6712_188130",
+            "value": "188130"
+          }
+        ]
+      },
+      {
+        "content": "\n    Trong kĩ thuật chọc ối để chuẩn đoán trước khi sinh ở người, đối tượng khảo sát là",
+        "info": "\n\t4.\n      ",
+        "answers": [
+          {
+            "content": "\n                <label for=\"resp6714_219031\">\n                    <span class=\"under_an\">A</span>. Các tế bào của bào thai trong nước ối.<br>                </label>\n            ",
+            "id": "resp6714_219031",
+            "value": "219031"
+          },
+          {
+            "content": "\n                <label for=\"resp6714_219030\">\n                    <span class=\"under_an\">B</span>. Tính chất của nước ối.<br>                </label>\n            ",
+            "id": "resp6714_219030",
+            "value": "219030"
+          },
+          {
+            "content": "\n                <label for=\"resp6714_219033\">\n                    <span class=\"under_an\">C</span>. Tính chất nước ối và các tế bào của thai trong nước ối<br>                </label>\n            ",
+            "id": "resp6714_219033",
+            "value": "219033"
+          },
+          {
+            "content": "\n                <label for=\"resp6714_219032\">\n                    <span class=\"under_an\">D</span>. Tế bào tử cung của mẹ.<br>                </label>\n            ",
+            "id": "resp6714_219032",
+            "value": "219032"
+          }
+        ]
+      },
+      {
+        "content": "\n    Bệnh Phênilkêtônuria có thể phát hiện nhanh và sớm từ giai đoạn sơ sinh nhờ phương pháp",
+        "info": "\n\t5.\n      ",
+        "answers": [
+          {
+            "content": "\n                <label for=\"resp6713_219045\">\n                    <span class=\"under_an\">A</span>. Sử dụng giấy chỉ thị màu để trong tã lót, giấy này sẽ có phản ứng đặc biệt với nước tiểu của trẻ bị bệnh.                </label>\n            ",
+            "id": "resp6713_219045",
+            "value": "219045"
+          },
+          {
+            "content": "\n                <label for=\"resp6713_219043\">\n                    <span class=\"under_an\">B</span>. Di truyền tế bào để phát hiện bất thường cấu trúc nhiễm sắc thể                </label>\n            ",
+            "id": "resp6713_219043",
+            "value": "219043"
+          },
+          {
+            "content": "\n                <label for=\"resp6713_219044\">\n                    <span class=\"under_an\">C</span>. Phương pháp phân tử để xác định gen đột biến                </label>\n            ",
+            "id": "resp6713_219044",
+            "value": "219044"
+          },
+          {
+            "content": "\n                <label for=\"resp6713_219042\">\n                    <span class=\"under_an\">D</span>. Phả hệ                </label>\n            ",
+            "id": "resp6713_219042",
+            "value": "219042"
+          }
+        ]
+      },
+      {
+        "content": "\n    Bệnh máu khó đông ở người là do:",
+        "info": "\n\t6.\n      ",
+        "answers": [
+          {
+            "content": "\n                <label for=\"resp6708_74991\">\n                    <span class=\"under_an\">A</span>. Đột biến gen trội trên nhiễm sắc thể thường.                </label>\n            ",
+            "id": "resp6708_74991",
+            "value": "74991"
+          },
+          {
+            "content": "\n                <label for=\"resp6708_74992\">\n                    <span class=\"under_an\">B</span>. Đột biến gen lặn trên nhiễm sắc thể thường.                </label>\n            ",
+            "id": "resp6708_74992",
+            "value": "74992"
+          },
+          {
+            "content": "\n                <label for=\"resp6708_74994\">\n                    <span class=\"under_an\">C</span>. Đột biến gen lặn trên nhiễm sắc thể giới tính.                </label>\n            ",
+            "id": "resp6708_74994",
+            "value": "74994"
+          },
+          {
+            "content": "\n                <label for=\"resp6708_74993\">\n                    <span class=\"under_an\">D</span>. Đột biến gen trội trên nhiễm sắc thể giới tính.                </label>\n            ",
+            "id": "resp6708_74993",
+            "value": "74993"
+          }
+        ]
+      },
+      {
+        "content": "\n    Phương pháp nghiên cứu tế bào nhằm mục đích:",
+        "info": "\n\t7.\n      ",
+        "answers": [
+          {
+            "content": "\n                <label for=\"resp6707_76046\">\n                    <span class=\"under_an\">A</span>. Phát hiện ra các bệnh và tật di truyền bẩm sinh có liên quan đến đột biến NST.                </label>\n            ",
+            "id": "resp6707_76046",
+            "value": "76046"
+          },
+          {
+            "content": "\n                <label for=\"resp6707_76047\">\n                    <span class=\"under_an\">B</span>. Phát hiện ra các bệnh và tật di truyền bẩm sinh có liên quan đến yếu tố môi trường.                </label>\n            ",
+            "id": "resp6707_76047",
+            "value": "76047"
+          },
+          {
+            "content": "\n                <label for=\"resp6707_76048\">\n                    <span class=\"under_an\">C</span>. Phát hiện ra các tính trạng phụ thuộc chủ yếu vào kiểu gen và phụ thuộc nhiều vào môi trường<br>                </label>\n            ",
+            "id": "resp6707_76048",
+            "value": "76048"
+          },
+          {
+            "content": "\n                <label for=\"resp6707_76045\">\n                    <span class=\"under_an\">D</span>. Phát hiện ra các bệnh và tật di truyền bẩm sinh có liên quan đến đột biến gen.                </label>\n            ",
+            "id": "resp6707_76045",
+            "value": "76045"
+          }
+        ]
+      },
+      {
+        "content": "\n    Biểu hiện của đột biến 3 NST 13 - 15 là:",
+        "info": "\n\t8.\n      ",
+        "answers": [
+          {
+            "content": "\n                <label for=\"resp6716_76087\">\n                    <span class=\"under_an\">A</span>. Gáy rộng và dẹt.<br>                </label>\n            ",
+            "id": "resp6716_76087",
+            "value": "76087"
+          },
+          {
+            "content": "\n                <label for=\"resp6716_76086\">\n                    <span class=\"under_an\">B</span>. Thừa ngón.                </label>\n            ",
+            "id": "resp6716_76086",
+            "value": "76086"
+          },
+          {
+            "content": "\n                <label for=\"resp6716_76085\">\n                    <span class=\"under_an\">C</span>. Sứt môi.                </label>\n            ",
+            "id": "resp6716_76085",
+            "value": "76085"
+          },
+          {
+            "content": "\n                <label for=\"resp6716_76088\">\n                    <span class=\"under_an\">D</span>. Sứt môi, thừa ngón, chết yểu<br>                </label>\n            ",
+            "id": "resp6716_76088",
+            "value": "76088"
+          }
+        ]
+      },
+      {
+        "content": "\n    Phương pháp nghiên cứu phả hệ là:",
+        "info": "\n\t9.\n      ",
+        "answers": [
+          {
+            "content": "\n                <label for=\"resp6711_76031\">\n                    <span class=\"under_an\">A</span>. Theo dõi sự biểu hiện tính trạng nhất định trên những người cùng một dòng họ tại một thế hệ nhất định để xác định xem tính trạng đó có liên quan đến các đột biến NST hay không<br>                </label>\n            ",
+            "id": "resp6711_76031",
+            "value": "76031"
+          },
+          {
+            "content": "\n                <label for=\"resp6711_76030\">\n                    <span class=\"under_an\">B</span>. Theo dõi sự di truyền của một tính trạng nhất định trên những người thuộc cùng một dòng họ qua nhiều thế hệ để xác định xem tính trạng đó là tính trạng trội hay lặn.<br>                </label>\n            ",
+            "id": "resp6711_76030",
+            "value": "76030"
+          },
+          {
+            "content": "\n                <label for=\"resp6711_76028\">\n                    <span class=\"under_an\">C</span>. Theo dõi sự di truyền của một tính trạng nhất định trên những người thuộc cùng một dòng họ qua nhiều thế hệ để xác định xem tính trạng đó là trội hay lặn, do một hay nhiều gen chi phối, có liên kết với giới tính hay không<br>                </label>\n            ",
+            "id": "resp6711_76028",
+            "value": "76028"
+          },
+          {
+            "content": "\n                <label for=\"resp6711_76029\">\n                    <span class=\"under_an\">D</span>. Theo dõi sự di truyền của một tính trạng nhất định trên những người thuộc cùng một dòng họ qua nhiều thế hệ để xác định xem tính trạng đó phụ thuộc chủ yếu vào kiểu gen hay môi trường.<br>                </label>\n            ",
+            "id": "resp6711_76029",
+            "value": "76029"
+          }
+        ]
+      },
+      {
+        "content": "\n    Ở người bệnh, bệnh mù màu (đỏ, lục) là do đột biến gen lặn nằm trên nhiễm sắc thể giới tính X gây nên (Xm). Nếu mẹ bình thường, bố bị mù màu thì con trai mù màu của họ đã nhận Xm từ:",
+        "info": "\n\t10.\n      ",
+        "answers": [
+          {
+            "content": "\n                <label for=\"resp6715_75950\">\n                    <span class=\"under_an\">A</span>. Bố                </label>\n            ",
+            "id": "resp6715_75950",
+            "value": "75950"
+          },
+          {
+            "content": "\n                <label for=\"resp6715_75948\">\n                    <span class=\"under_an\">B</span>. Bà nội                </label>\n            ",
+            "id": "resp6715_75948",
+            "value": "75948"
+          },
+          {
+            "content": "\n                <label for=\"resp6715_75951\">\n                    <span class=\"under_an\">C</span>. Mẹ                </label>\n            ",
+            "id": "resp6715_75951",
+            "value": "75951"
+          },
+          {
+            "content": "\n                <label for=\"resp6715_75949\">\n                    <span class=\"under_an\">D</span>. Ông nội                </label>\n            ",
+            "id": "resp6715_75949",
+            "value": "75949"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tag": { "title": "Kiểm tra môn Sinh học - HOCMAI" },
+    "title": "Bài tập tự luyện",
+    "subtitle": "06. Sự phát sinh và phát triển của sự sống",
+    "questions": [
+      {
+        "content": "\n    Sự di cư của các động vật, thưc vật ở cạn về phía Nam ở kỉ Thứ tư nhiều lần là do:",
+        "info": "\n\t1.\n      ",
+        "answers": [
+          {
+            "content": "\n                <label for=\"resp6760_80452\">\n                    <span class=\"under_an\">A</span>. Khí hậu khô tạo điều kiện cho sự di cư.                </label>\n            ",
+            "id": "resp6760_80452",
+            "value": "80452"
+          },
+          {
+            "content": "\n                <label for=\"resp6760_80454\">\n                    <span class=\"under_an\">B</span>. Xuất hiên các cầu nối giữa các đại lục do băng hà phát triển làm cho mực nước biển rút xuống.                </label>\n            ",
+            "id": "resp6760_80454",
+            "value": "80454"
+          },
+          {
+            "content": "\n                <label for=\"resp6760_80453\">\n                    <span class=\"under_an\">C</span>. Diện tích rừng bị thu hẹp làm xuất hiện các đồng cỏ.                </label>\n            ",
+            "id": "resp6760_80453",
+            "value": "80453"
+          },
+          {
+            "content": "\n                <label for=\"resp6760_80455\">\n                    <span class=\"under_an\">D</span>. Có những thời kì băng hà xen lẫn khí hậu ấm áp.                </label>\n            ",
+            "id": "resp6760_80455",
+            "value": "80455"
+          }
+        ]
+      },
+      {
+        "content": "\n    Sự kiện dưới đây làm cho quá trình tổng hợp và phân giải các chất hữu cơ diễn ra nhanh hơn là:",
+        "info": "\n\t2.\n      ",
+        "answers": [
+          {
+            "content": "\n                <label for=\"resp6758_80579\">\n                    <span class=\"under_an\">A</span>. Sự hình thành lớp màng.                </label>\n            ",
+            "id": "resp6758_80579",
+            "value": "80579"
+          },
+          {
+            "content": "\n                <label for=\"resp6758_80578\">\n                    <span class=\"under_an\">B</span>. Sự tạo thành Côaxecva.                </label>\n            ",
+            "id": "resp6758_80578",
+            "value": "80578"
+          },
+          {
+            "content": "\n                <label for=\"resp6758_80580\">\n                    <span class=\"under_an\">C</span>. Sự xuất hiện các enzim.                </label>\n            ",
+            "id": "resp6758_80580",
+            "value": "80580"
+          },
+          {
+            "content": "\n                <label for=\"resp6758_80581\">\n                    <span class=\"under_an\">D</span>. Sự xuất hiện cơ chế sao chép.                </label>\n            ",
+            "id": "resp6758_80581",
+            "value": "80581"
+          }
+        ]
+      },
+      {
+        "content": "\n    Bước quan trọng để các dạng sống sản sinh ra các dạng dạng giống mình là:",
+        "info": "\n\t3.\n      ",
+        "answers": [
+          {
+            "content": "\n                <label for=\"resp6755_80552\">\n                    <span class=\"under_an\">A</span>. Sự tạo thành lớp màng.                </label>\n            ",
+            "id": "resp6755_80552",
+            "value": "80552"
+          },
+          {
+            "content": "\n                <label for=\"resp6755_80550\">\n                    <span class=\"under_an\">B</span>. Sự xuất hiện cơ chế tự sao.                </label>\n            ",
+            "id": "resp6755_80550",
+            "value": "80550"
+          },
+          {
+            "content": "\n                <label for=\"resp6755_80551\">\n                    <span class=\"under_an\">C</span>. Sự tạo thành các côaxecva.                </label>\n            ",
+            "id": "resp6755_80551",
+            "value": "80551"
+          },
+          {
+            "content": "\n                <label for=\"resp6755_80553\">\n                    <span class=\"under_an\">D</span>. Sự xuất hiện các enzim.                </label>\n            ",
+            "id": "resp6755_80553",
+            "value": "80553"
+          }
+        ]
+      },
+      {
+        "content": "\n    Trong các dấu hiệu của hiện tượng sống, dấu hiệu nào không thể có ở vật thể vô cơ:",
+        "info": "\n\t4.\n      ",
+        "answers": [
+          {
+            "content": "\n                <label for=\"resp6753_482571\">\n                    <span class=\"under_an\">A</span>. Vận động và cảm ứng                </label>\n            ",
+            "id": "resp6753_482571",
+            "value": "482571"
+          },
+          {
+            "content": "\n                <label for=\"resp6753_482572\">\n                    <span class=\"under_an\">B</span>. Sinh trưởng và phát triển                </label>\n            ",
+            "id": "resp6753_482572",
+            "value": "482572"
+          },
+          {
+            "content": "\n                <label for=\"resp6753_482573\">\n                    <span class=\"under_an\">C</span>. Sinh sản                </label>\n            ",
+            "id": "resp6753_482573",
+            "value": "482573"
+          },
+          {
+            "content": "\n                <label for=\"resp6753_482570\">\n                    <span class=\"under_an\">D</span>. Trao đổi chất và vận động                </label>\n            ",
+            "id": "resp6753_482570",
+            "value": "482570"
+          }
+        ]
+      },
+      {
+        "content": "\n    Cơ sở vật chất chủ yếu của sự sống:",
+        "info": "\n\t5.\n      ",
+        "answers": [
+          {
+            "content": "\n                <label for=\"resp6756_195653\">\n                    <span class=\"under_an\">A</span>. Lipit, Protêin.                </label>\n            ",
+            "id": "resp6756_195653",
+            "value": "195653"
+          },
+          {
+            "content": "\n                <label for=\"resp6756_195652\">\n                    <span class=\"under_an\">B</span>. Axit nuclêic, Lipit.                </label>\n            ",
+            "id": "resp6756_195652",
+            "value": "195652"
+          },
+          {
+            "content": "\n                <label for=\"resp6756_195651\">\n                    <span class=\"under_an\">C</span>. Protêin, Glucit, Lipit.                </label>\n            ",
+            "id": "resp6756_195651",
+            "value": "195651"
+          },
+          {
+            "content": "\n                <label for=\"resp6756_195654\">\n                    <span class=\"under_an\">D</span>. Protêin, Axit nuclêic.                </label>\n            ",
+            "id": "resp6756_195654",
+            "value": "195654"
+          }
+        ]
+      },
+      {
+        "content": "\n    Trong giai đoạn tiến hoá hoá học đã có:",
+        "info": "\n\t6.\n      ",
+        "answers": [
+          {
+            "content": "\n                <label for=\"resp6754_80549\">\n                    <span class=\"under_an\">A</span>. Sự xuất hiện các enzim theo phương thức hoá học.                </label>\n            ",
+            "id": "resp6754_80549",
+            "value": "80549"
+          },
+          {
+            "content": "\n                <label for=\"resp6754_80548\">\n                    <span class=\"under_an\">B</span>. Sự hình thành mầm mống những cơ thể đầu tiên theo phương thức hoá học.                </label>\n            ",
+            "id": "resp6754_80548",
+            "value": "80548"
+          },
+          {
+            "content": "\n                <label for=\"resp6754_80547\">\n                    <span class=\"under_an\">C</span>. Sự tạo thành các côaxecva theo phương thức hóa học.                </label>\n            ",
+            "id": "resp6754_80547",
+            "value": "80547"
+          },
+          {
+            "content": "\n                <label for=\"resp6754_80546\">\n                    <span class=\"under_an\">D</span>. Sự tổng hợp các chất hữu cơ từ các chất vô cơ theo phương thức hoá học.                </label>\n            ",
+            "id": "resp6754_80546",
+            "value": "80546"
+          }
+        ]
+      },
+      {
+        "content": "\n    Bầu khí quyển nguyên thủy của trái đất không có thành phần nào sau đây?",
+        "info": "\n\t7.\n      ",
+        "answers": [
+          {
+            "content": "\n                <label for=\"resp6759_191984\">\n                    <span class=\"under_an\">A</span>. Hydrô.                </label>\n            ",
+            "id": "resp6759_191984",
+            "value": "191984"
+          },
+          {
+            "content": "\n                <label for=\"resp6759_191982\">\n                    <span class=\"under_an\">B</span>. CH<sub>4</sub>, Hơi nước.                </label>\n            ",
+            "id": "resp6759_191982",
+            "value": "191982"
+          },
+          {
+            "content": "\n                <label for=\"resp6759_191985\">\n                    <span class=\"under_an\">C</span>. Oxy.                </label>\n            ",
+            "id": "resp6759_191985",
+            "value": "191985"
+          },
+          {
+            "content": "\n                <label for=\"resp6759_191983\">\n                    <span class=\"under_an\">D</span>. CH<sub>4</sub>, NH<sub>3</sub>, Hơi nước.                </label>\n            ",
+            "id": "resp6759_191983",
+            "value": "191983"
+          }
+        ]
+      },
+      {
+        "content": "\n    Quyết trần xuất hiện ở giai đoạn:",
+        "info": "\n\t8.\n      ",
+        "answers": [
+          {
+            "content": "\n                <label for=\"resp6751_80484\">\n                    <span class=\"under_an\">A</span>. Kỉ Silua.<br>                </label>\n            ",
+            "id": "resp6751_80484",
+            "value": "80484"
+          },
+          {
+            "content": "\n                <label for=\"resp6751_80483\">\n                    <span class=\"under_an\">B</span>. Kỉ Đêvôn.<br>                </label>\n            ",
+            "id": "resp6751_80483",
+            "value": "80483"
+          },
+          {
+            "content": "\n                <label for=\"resp6751_80485\">\n                    <span class=\"under_an\">C</span>. Kỉ Than đá.<br>                </label>\n            ",
+            "id": "resp6751_80485",
+            "value": "80485"
+          },
+          {
+            "content": "\n                <label for=\"resp6751_80482\">\n                    <span class=\"under_an\">D</span>. Kỉ Cambri.<br>                </label>\n            ",
+            "id": "resp6751_80482",
+            "value": "80482"
+          }
+        ]
+      },
+      {
+        "content": "\n    Thực vật di cư lên cạn hàng loạt ở kỉ:",
+        "info": "\n\t9.\n      ",
+        "answers": [
+          {
+            "content": "\n                <label for=\"resp6757_80387\">\n                    <span class=\"under_an\">A</span>. Cambri.                </label>\n            ",
+            "id": "resp6757_80387",
+            "value": "80387"
+          },
+          {
+            "content": "\n                <label for=\"resp6757_80389\">\n                    <span class=\"under_an\">B</span>. Đêvôn.                </label>\n            ",
+            "id": "resp6757_80389",
+            "value": "80389"
+          },
+          {
+            "content": "\n                <label for=\"resp6757_80388\">\n                    <span class=\"under_an\">C</span>. Xilua.                </label>\n            ",
+            "id": "resp6757_80388",
+            "value": "80388"
+          },
+          {
+            "content": "\n                <label for=\"resp6757_80390\">\n                    <span class=\"under_an\">D</span>. Than đá.                </label>\n            ",
+            "id": "resp6757_80390",
+            "value": "80390"
+          }
+        ]
+      },
+      {
+        "content": "\n    Cơ sở vật chất chủ yếu của sự sống là:",
+        "info": "\n\t10.\n      ",
+        "answers": [
+          {
+            "content": "\n                <label for=\"resp6752_80671\">\n                    <span class=\"under_an\">A</span>. Cacbonhidrat.                </label>\n            ",
+            "id": "resp6752_80671",
+            "value": "80671"
+          },
+          {
+            "content": "\n                <label for=\"resp6752_80670\">\n                    <span class=\"under_an\">B</span>. Prôtêin.                </label>\n            ",
+            "id": "resp6752_80670",
+            "value": "80670"
+          },
+          {
+            "content": "\n                <label for=\"resp6752_80673\">\n                    <span class=\"under_an\">C</span>. Prôtêin và axit nuclêic.                </label>\n            ",
+            "id": "resp6752_80673",
+            "value": "80673"
+          },
+          {
+            "content": "\n                <label for=\"resp6752_80672\">\n                    <span class=\"under_an\">D</span>. Axit nuclêic.                </label>\n            ",
+            "id": "resp6752_80672",
+            "value": "80672"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tag": { "title": "Kiểm tra môn Sinh học - HOCMAI" },
+    "title": "Bài tập tự luyện",
+    "subtitle": "Nguyên nhân và cơ chế tiến hóa",
+    "questions": [
+      {
+        "content": "\n    Theo quan điểm hiện đại, có mấy con đường chủ yếu để hình thành loài mới?",
+        "info": "\n\t1.\n      ",
+        "answers": [
+          {
+            "content": "\n                <label for=\"resp6845_209064\">\n                    <span class=\"under_an\">A</span>. 2                </label>\n            ",
+            "id": "resp6845_209064",
+            "value": "209064"
+          },
+          {
+            "content": "\n                <label for=\"resp6845_209065\">\n                    <span class=\"under_an\">B</span>. 3                </label>\n            ",
+            "id": "resp6845_209065",
+            "value": "209065"
+          },
+          {
+            "content": "\n                <label for=\"resp6845_209067\">\n                    <span class=\"under_an\">C</span>. 5                </label>\n            ",
+            "id": "resp6845_209067",
+            "value": "209067"
+          },
+          {
+            "content": "\n                <label for=\"resp6845_209066\">\n                    <span class=\"under_an\">D</span>. 4                </label>\n            ",
+            "id": "resp6845_209066",
+            "value": "209066"
+          }
+        ]
+      },
+      {
+        "content": "\n    Tiêu chuẩn nào là quan trọng nhất để phân biệt hai loài vi khuẩn thân thuộc:",
+        "info": "\n\t2.\n      ",
+        "answers": [
+          {
+            "content": "\n                <label for=\"resp6841_132499\">\n                    <span class=\"under_an\">A</span>. Tiêu chuẩn hình thái.<br>                </label>\n            ",
+            "id": "resp6841_132499",
+            "value": "132499"
+          },
+          {
+            "content": "\n                <label for=\"resp6841_132500\">\n                    <span class=\"under_an\">B</span>. Tiêu chuẩn di truyền và tiêu chuẩn hình thái<br>                </label>\n            ",
+            "id": "resp6841_132500",
+            "value": "132500"
+          },
+          {
+            "content": "\n                <label for=\"resp6841_132497\">\n                    <span class=\"under_an\">C</span>. Tiêu chuẩn di truyền.<br>                </label>\n            ",
+            "id": "resp6841_132497",
+            "value": "132497"
+          },
+          {
+            "content": "\n                <label for=\"resp6841_132498\">\n                    <span class=\"under_an\">D</span>. Tiêu chuẩn sinh lí – hoá sinh.<br>                </label>\n            ",
+            "id": "resp6841_132498",
+            "value": "132498"
+          }
+        ]
+      },
+      {
+        "content": "\n    Ở người bệnh bạch tạng do gen lặn a quy định, alen A quy định người bình thường (trội hoàn toàn). Thống kê ở người tỷ lệ người bị bạch tạng khoảng \\[\\frac{1}{{25600}}\\]. Tần số tương đối của alen A và a trong quần thể người là:",
+        "info": "\n\t3.\n      ",
+        "answers": [
+          {
+            "content": "\n                <label for=\"resp6849_209078\">\n                    <span class=\"under_an\">A</span>. P<sub>A</sub> = 0,8; q<sub>a</sub> = 0,2                </label>\n            ",
+            "id": "resp6849_209078",
+            "value": "209078"
+          },
+          {
+            "content": "\n                <label for=\"resp6849_209076\">\n                    <span class=\"under_an\">B</span>. P<sub>A</sub> = \\[\\frac{{159}}{{160}}\\]; q<sub>a</sub> = \\[\\frac{{1}}{{160}}\\]                </label>\n            ",
+            "id": "resp6849_209076",
+            "value": "209076"
+          },
+          {
+            "content": "\n                <label for=\"resp6849_209077\">\n                    <span class=\"under_an\">C</span>. P<sub>A </sub>= \\[\\frac{{25599}}{{25600}}\\]; q<sub>a</sub> = \\[\\frac{{1}}{{25600}}\\]                </label>\n            ",
+            "id": "resp6849_209077",
+            "value": "209077"
+          },
+          {
+            "content": "\n                <label for=\"resp6849_209079\">\n                    <span class=\"under_an\">D</span>. P<sub>A</sub> = 0,7; q<sub>a</sub> = 0,3                </label>\n            ",
+            "id": "resp6849_209079",
+            "value": "209079"
+          }
+        ]
+      },
+      {
+        "content": "\n    Theo Đacuyn, cơ chế chính của sự tiến hoá là:",
+        "info": "\n\t4.\n      ",
+        "answers": [
+          {
+            "content": "\n                <label for=\"resp6850_132194\">\n                    <span class=\"under_an\">A</span>. Sự tích lũy các đột biến và biến dị có lợi, đào thải các đột biến và biến dị có hại dưới tác động của chọn lọc tự nhiên.                </label>\n            ",
+            "id": "resp6850_132194",
+            "value": "132194"
+          },
+          {
+            "content": "\n                <label for=\"resp6850_132195\">\n                    <span class=\"under_an\">B</span>. Sự tích luỹ các đột biến trung tính một cách ngẫu nhiên, không liên quan với tác dụng của chọn lọc tự nhiên.                </label>\n            ",
+            "id": "resp6850_132195",
+            "value": "132195"
+          },
+          {
+            "content": "\n                <label for=\"resp6850_132193\">\n                    <span class=\"under_an\">C</span>. Sự tích luỹ các biến dị có lợi, đào thải các biến dị có hại dưới tác động của chọn lọc tự nhiên.                </label>\n            ",
+            "id": "resp6850_132193",
+            "value": "132193"
+          },
+          {
+            "content": "\n                <label for=\"resp6850_132192\">\n                    <span class=\"under_an\">D</span>. Sự di truyền các đặc tính thu được trong đời sống các thể đưới tác dụng của ngoại cảnh hay tập quán hoạt động.                </label>\n            ",
+            "id": "resp6850_132192",
+            "value": "132192"
+          }
+        ]
+      },
+      {
+        "content": "\n    Sự hình thành loài mới theo quan điểm của Đacuyn là:",
+        "info": "\n\t5.\n      ",
+        "answers": [
+          {
+            "content": "\n                <label for=\"resp6843_132197\">\n                    <span class=\"under_an\">A</span>. Loài mới được hình thành từ từ qua nhiều dạng trung gian tương ứng với sự thay đổi của ngoại cảnh.<br>                </label>\n            ",
+            "id": "resp6843_132197",
+            "value": "132197"
+          },
+          {
+            "content": "\n                <label for=\"resp6843_132199\">\n                    <span class=\"under_an\">B</span>. Là quá trình lịch sử cải biến thành phần kiểu gen của quần thể theo hướng thích nghi, tạo ra kiểu gen mới cách li sinh sản với quần thể gốc.<br>                </label>\n            ",
+            "id": "resp6843_132199",
+            "value": "132199"
+          },
+          {
+            "content": "\n                <label for=\"resp6843_132200\">\n                    <span class=\"under_an\">C</span>. Quá trình biến hệ gen hở của quần thể thành hệ gen kín của loài.<br>                </label>\n            ",
+            "id": "resp6843_132200",
+            "value": "132200"
+          },
+          {
+            "content": "\n                <label for=\"resp6843_132198\">\n                    <span class=\"under_an\">D</span>. Loài mới được hình thành từ từ qua nhiều dạng trung gian dưới tác dụng của chọn lọc tự nhiên, theo con đường phân li tính trạng từ một nguồn gốc chung.<br>                </label>\n            ",
+            "id": "resp6843_132198",
+            "value": "132198"
+          }
+        ]
+      },
+      {
+        "content": "\n    Đóng góp quan trọng nhất của học thuyết Đacuyn là:",
+        "info": "\n\t6.\n      ",
+        "answers": [
+          {
+            "content": "\n                <label for=\"resp6847_132179\">\n                    <span class=\"under_an\">A</span>. Chứng minh toàn bộ sinh giới ngày nay có cùng một nguồn gốc chung.                </label>\n            ",
+            "id": "resp6847_132179",
+            "value": "132179"
+          },
+          {
+            "content": "\n                <label for=\"resp6847_132177\">\n                    <span class=\"under_an\">B</span>. Đề xuất khái niệm biến dị cá thể, nêu lên tính vô hướng của loại biến dị này.                </label>\n            ",
+            "id": "resp6847_132177",
+            "value": "132177"
+          },
+          {
+            "content": "\n                <label for=\"resp6847_132180\">\n                    <span class=\"under_an\">C</span>. Phát hiện vai trò sáng tạo của chọn lọc tự nhiên và chọn lọc nhân tạo.                </label>\n            ",
+            "id": "resp6847_132180",
+            "value": "132180"
+          },
+          {
+            "content": "\n                <label for=\"resp6847_132178\">\n                    <span class=\"under_an\">D</span>. Giải thích được nguồn gốc của các loài vật nuôi, cây trồng.                </label>\n            ",
+            "id": "resp6847_132178",
+            "value": "132178"
+          }
+        ]
+      },
+      {
+        "content": "\n    Giả sử trong một quần thể động vật giao phối (không có chọn lọc và đột biến), tần số tương đối của 2 alen A = 0,8 ; a = 0,2. Thành phần kiểu gen của quần thể khi giao phối ngẫu nhiên là:",
+        "info": "\n\t7.\n      ",
+        "answers": [
+          {
+            "content": "\n                <label for=\"resp6844_132542\">\n                    <span class=\"under_an\">A</span>. 0,8 AA : 0,2 aa                </label>\n            ",
+            "id": "resp6844_132542",
+            "value": "132542"
+          },
+          {
+            "content": "\n                <label for=\"resp6844_132543\">\n                    <span class=\"under_an\">B</span>. 0,64 AA : 0,32 Aa : 0,04 aa                </label>\n            ",
+            "id": "resp6844_132543",
+            "value": "132543"
+          },
+          {
+            "content": "\n                <label for=\"resp6844_132544\">\n                    <span class=\"under_an\">C</span>. 0,04 AA : 0,32 Aa : 0,64 aa                </label>\n            ",
+            "id": "resp6844_132544",
+            "value": "132544"
+          },
+          {
+            "content": "\n                <label for=\"resp6844_132545\">\n                    <span class=\"under_an\">D</span>. 0,64 AA : 0,04 Aa : 0,32 aa                </label>\n            ",
+            "id": "resp6844_132545",
+            "value": "132545"
+          }
+        ]
+      },
+      {
+        "content": "\n    Đóng góp quan trọng nhất của học thuyết Lamac:",
+        "info": "\n\t8.\n      ",
+        "answers": [
+          {
+            "content": "\n                <label for=\"resp6848_132602\">\n                    <span class=\"under_an\">A</span>. Nêu được vai trò của chọn lọc tự nhiên trong quá trình tiến hoá của sinh vật.                </label>\n            ",
+            "id": "resp6848_132602",
+            "value": "132602"
+          },
+          {
+            "content": "\n                <label for=\"resp6848_132601\">\n                    <span class=\"under_an\">B</span>. Lần đầu tiên chứng minh được sinh giới là kết quả của một quá trình phát triển liên tục từ đơn giản đến phức tạp.                </label>\n            ",
+            "id": "resp6848_132601",
+            "value": "132601"
+          },
+          {
+            "content": "\n                <label for=\"resp6848_132604\">\n                    <span class=\"under_an\">C</span>. Bác bỏ vai trò của Thượng đế trong việc sáng tạo ra các loài sinh vật.                </label>\n            ",
+            "id": "resp6848_132604",
+            "value": "132604"
+          },
+          {
+            "content": "\n                <label for=\"resp6848_132603\">\n                    <span class=\"under_an\">D</span>. Giải thích được sự đa dạng của sinh giới bằng thuyết biến hình.                </label>\n            ",
+            "id": "resp6848_132603",
+            "value": "132603"
+          }
+        ]
+      },
+      {
+        "content": "\n    Sự hình thành các đặc điểm thích nghi theo quan niệm của Lamac là:",
+        "info": "\n\t9.\n      ",
+        "answers": [
+          {
+            "content": "\n                <label for=\"resp6846_132240\">\n                    <span class=\"under_an\">A</span>. Ngoại cảnh thay đổi nên sinh vật có khả năng thích nghi kịp thời nên không có loài nào bị đào thải.<br>                </label>\n            ",
+            "id": "resp6846_132240",
+            "value": "132240"
+          },
+          {
+            "content": "\n                <label for=\"resp6846_132238\">\n                    <span class=\"under_an\">B</span>. Mọi cá thể trong loài đều nhất loạt phản ứng theo cách giống nhau trước điều kiện ngoại cảnh.<br>                </label>\n            ",
+            "id": "resp6846_132238",
+            "value": "132238"
+          },
+          {
+            "content": "\n                <label for=\"resp6846_132237\">\n                    <span class=\"under_an\">C</span>. Ngoại cảnh thay đổi chậm chạp nên sinh vật có khả năng thích nghi kịp thời nên không có loài nào bị đào thải.<br>                </label>\n            ",
+            "id": "resp6846_132237",
+            "value": "132237"
+          },
+          {
+            "content": "\n                <label for=\"resp6846_132239\">\n                    <span class=\"under_an\">D</span>. Chọn lọc tự nhiên thông qua các đặc tính di truyền và biến dị.<br>                </label>\n            ",
+            "id": "resp6846_132239",
+            "value": "132239"
+          }
+        ]
+      },
+      {
+        "content": "\n    Theo quan điểm hiện đại, các nhân tố chi phối sự hình thành đặc điểm thích nghi ở cơ thể sinh vật là:",
+        "info": "\n\t10.\n      ",
+        "answers": [
+          {
+            "content": "\n                <label for=\"resp6842_132362\">\n                    <span class=\"under_an\">A</span>. Ngoại cảnh thay đổi chậm chạp nên sinh vật có khả năng thích nghi kịp thời.                </label>\n            ",
+            "id": "resp6842_132362",
+            "value": "132362"
+          },
+          {
+            "content": "\n                <label for=\"resp6842_132363\">\n                    <span class=\"under_an\">B</span>. Quá trình biến dị, quá trình di truyền và quá trình chọn lọc tự nhiên.                </label>\n            ",
+            "id": "resp6842_132363",
+            "value": "132363"
+          },
+          {
+            "content": "\n                <label for=\"resp6842_132365\">\n                    <span class=\"under_an\">C</span>. Đột biến, giao phối và chọn lọc tự nhiên.                </label>\n            ",
+            "id": "resp6842_132365",
+            "value": "132365"
+          },
+          {
+            "content": "\n                <label for=\"resp6842_132364\">\n                    <span class=\"under_an\">D</span>. Quá trình đột biến, quá trình giao phối và quá trình chọn lọc tự nhiên.                </label>\n            ",
+            "id": "resp6842_132364",
+            "value": "132364"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tag": { "title": "Kiểm tra môn Sinh học - HOCMAI" },
+    "title": "Bài tập tự luyện",
+    "subtitle": "Cơ chế và quy luật của hiện tượng di truyền",
+    "questions": [
+      {
+        "content": "\n    Ý nghĩa của di truyền liên kết với giới tính là:",
+        "info": "\n\t1.\n      ",
+        "answers": [
+          {
+            "content": "\n                <label for=\"resp6938_80028\">\n                    <span class=\"under_an\">A</span>. Giải thích được một số bệnh, tật di truyền liên quan đến NST giới tính như bệnh mù màu, máu khó đông…<br>                </label>\n            ",
+            "id": "resp6938_80028",
+            "value": "80028"
+          },
+          {
+            "content": "\n                <label for=\"resp6938_80031\">\n                    <span class=\"under_an\">B</span>. Giải thích được một số bệnh di truyền liên quan đến NST giới tính và có thể phân biệt được đực cái sớm<br>                </label>\n            ",
+            "id": "resp6938_80031",
+            "value": "80031"
+          },
+          {
+            "content": "\n                <label for=\"resp6938_80030\">\n                    <span class=\"under_an\">C</span>. Chủ động sinh con theo ý muốn.<br>                </label>\n            ",
+            "id": "resp6938_80030",
+            "value": "80030"
+          },
+          {
+            "content": "\n                <label for=\"resp6938_80029\">\n                    <span class=\"under_an\">D</span>. Có thể sớm phân biệt được cá thể đực, cái nhờ các gen liên kết với giới tính.<br>                </label>\n            ",
+            "id": "resp6938_80029",
+            "value": "80029"
+          }
+        ]
+      },
+      {
+        "content": "\n    Di truyền học hiện đại phân loại biến dị thành:",
+        "info": "\n\t2.\n      ",
+        "answers": [
+          {
+            "content": "\n                <label for=\"resp6939_74924\">\n                    <span class=\"under_an\">A</span>. Biến dị thường biến và biến dị đột biến.                </label>\n            ",
+            "id": "resp6939_74924",
+            "value": "74924"
+          },
+          {
+            "content": "\n                <label for=\"resp6939_74927\">\n                    <span class=\"under_an\">B</span>. Biến dị tổ hợp và đột biến.                </label>\n            ",
+            "id": "resp6939_74927",
+            "value": "74927"
+          },
+          {
+            "content": "\n                <label for=\"resp6939_74926\">\n                    <span class=\"under_an\">C</span>. Biến dị di truyền và biến dị không di truyền.                </label>\n            ",
+            "id": "resp6939_74926",
+            "value": "74926"
+          },
+          {
+            "content": "\n                <label for=\"resp6939_74925\">\n                    <span class=\"under_an\">D</span>. Biến dị thường biến và biến dị tổ hợp.                </label>\n            ",
+            "id": "resp6939_74925",
+            "value": "74925"
+          }
+        ]
+      },
+      {
+        "content": "\n    Ở ngô có ba gen, mỗi gen có 2 alen (A và a, B và b, D và d). Ba cặp gen này phân li độc lập, tác động cộng gộp cùng quy định chiều cao thân. Cứ mỗi gen trội làm cho cây thấp đi 20 cm. Người ta giao phấn cây thấp nhất với cây cao nhất (210 cm). Kiểu gen của cây thấp nhất là:",
+        "info": "\n\t3.\n      ",
+        "answers": [
+          {
+            "content": "\n                <label for=\"resp6934_79816\">\n                    <span class=\"under_an\">A</span>. AABBDD.                </label>\n            ",
+            "id": "resp6934_79816",
+            "value": "79816"
+          },
+          {
+            "content": "\n                <label for=\"resp6934_79815\">\n                    <span class=\"under_an\">B</span>. AABBDd.                </label>\n            ",
+            "id": "resp6934_79815",
+            "value": "79815"
+          },
+          {
+            "content": "\n                <label for=\"resp6934_79814\">\n                    <span class=\"under_an\">C</span>. AABbDd.                </label>\n            ",
+            "id": "resp6934_79814",
+            "value": "79814"
+          },
+          {
+            "content": "\n                <label for=\"resp6934_79813\">\n                    <span class=\"under_an\">D</span>. AaBbDd.                </label>\n            ",
+            "id": "resp6934_79813",
+            "value": "79813"
+          }
+        ]
+      },
+      {
+        "content": "\n    Nguyên nhân, cơ chế phát sinh biến dị tổ hợp là:1. Phân li độc lập và tổ hợp tự do của các NST trong phát sinh giao tử.2. Hoán vị gen trong quá trình phát sinh giao tử.3. Tổ hợp ngẫu nhiên của các loại giao tử trong thụ tinh4. Sự tương tác giữa các gen trong hợp tử.5. Cấu trúc ADN, NST bị biến đổi.Câu trả lời đúng là:",
+        "info": "\n\t4.\n      ",
+        "answers": [
+          {
+            "content": "\n                <label for=\"resp6932_80054\">\n                    <span class=\"under_an\">A</span>. 1, 2, 3                </label>\n            ",
+            "id": "resp6932_80054",
+            "value": "80054"
+          },
+          {
+            "content": "\n                <label for=\"resp6932_80055\">\n                    <span class=\"under_an\">B</span>. 1, 2, 3, 4                </label>\n            ",
+            "id": "resp6932_80055",
+            "value": "80055"
+          },
+          {
+            "content": "\n                <label for=\"resp6932_80056\">\n                    <span class=\"under_an\">C</span>. 1, 2, 3, 5.                </label>\n            ",
+            "id": "resp6932_80056",
+            "value": "80056"
+          },
+          {
+            "content": "\n                <label for=\"resp6932_80053\">\n                    <span class=\"under_an\">D</span>. 1, 3.                </label>\n            ",
+            "id": "resp6932_80053",
+            "value": "80053"
+          }
+        ]
+      },
+      {
+        "content": "\n    Ví dụ về tính trạng có mức phản ứng hẹp là:",
+        "info": "\n\t5.\n      ",
+        "answers": [
+          {
+            "content": "\n                <label for=\"resp6935_75211\">\n                    <span class=\"under_an\">A</span>. Sản lượng trứng gà.                </label>\n            ",
+            "id": "resp6935_75211",
+            "value": "75211"
+          },
+          {
+            "content": "\n                <label for=\"resp6935_75208\">\n                    <span class=\"under_an\">B</span>. Tỉ lệ bơ trong sữa bò.                </label>\n            ",
+            "id": "resp6935_75208",
+            "value": "75208"
+          },
+          {
+            "content": "\n                <label for=\"resp6935_75210\">\n                    <span class=\"under_an\">C</span>. Khối lượng 1000 hạt lúa.                </label>\n            ",
+            "id": "resp6935_75210",
+            "value": "75210"
+          },
+          {
+            "content": "\n                <label for=\"resp6935_75209\">\n                    <span class=\"under_an\">D</span>. Sản lượng sữa bò.                </label>\n            ",
+            "id": "resp6935_75209",
+            "value": "75209"
+          }
+        ]
+      },
+      {
+        "content": "\n    Nguyên nhân cơ bản gây ra hiện tượng phân tính ở F2 là:",
+        "info": "\n\t6.\n      ",
+        "answers": [
+          {
+            "content": "\n                <label for=\"resp6937_79944\">\n                    <span class=\"under_an\">A</span>. Các giao tử F<sub>1</sub> thuần khiết và được tạo ra với xác xuất ngang nhau.                </label>\n            ",
+            "id": "resp6937_79944",
+            "value": "79944"
+          },
+          {
+            "content": "\n                <label for=\"resp6937_79946\">\n                    <span class=\"under_an\">B</span>. Cơ thể F<sub>1 </sub>không tạo ra được giao tử thuần khiết                </label>\n            ",
+            "id": "resp6937_79946",
+            "value": "79946"
+          },
+          {
+            "content": "\n                <label for=\"resp6937_79945\">\n                    <span class=\"under_an\">C</span>. Sự kết hợp ngẫu nhiên của các loại giao tử trong thụ tinh khi hình thành F<sub>2</sub>.                </label>\n            ",
+            "id": "resp6937_79945",
+            "value": "79945"
+          },
+          {
+            "content": "\n                <label for=\"resp6937_79943\">\n                    <span class=\"under_an\">D</span>. Giao tử của cơ thể lai F<sub>1</sub> thuần khiết.                </label>\n            ",
+            "id": "resp6937_79943",
+            "value": "79943"
+          }
+        ]
+      },
+      {
+        "content": "\n    Ở một loài thực vật giao phấn, A quy định thân cao, a thân thấp; B hoa màu đỏ, b hoa màu trắng; D hạt trơn, d hạt nhăn. Các cặp gen nằm trên các cặp NST tương đồng khác nhau. Người ta tiến hành lai hai cơ thể bố mẹ đều dị hợp về 3 cặp gen. Số kiểu tổ hợp giao tử được tạo ra là:",
+        "info": "\n\t7.\n      ",
+        "answers": [
+          {
+            "content": "\n                <label for=\"resp6936_79926\">\n                    <span class=\"under_an\">A</span>. 64                </label>\n            ",
+            "id": "resp6936_79926",
+            "value": "79926"
+          },
+          {
+            "content": "\n                <label for=\"resp6936_79923\">\n                    <span class=\"under_an\">B</span>. 8                </label>\n            ",
+            "id": "resp6936_79923",
+            "value": "79923"
+          },
+          {
+            "content": "\n                <label for=\"resp6936_79924\">\n                    <span class=\"under_an\">C</span>. 16                </label>\n            ",
+            "id": "resp6936_79924",
+            "value": "79924"
+          },
+          {
+            "content": "\n                <label for=\"resp6936_79925\">\n                    <span class=\"under_an\">D</span>. 32                </label>\n            ",
+            "id": "resp6936_79925",
+            "value": "79925"
+          }
+        ]
+      },
+      {
+        "content": "\n    Phát biểu nào sau đây không phải là ý nghĩa của hoán vị gen?",
+        "info": "\n\t8.\n      ",
+        "answers": [
+          {
+            "content": "\n                <label for=\"resp6930_79961\">\n                    <span class=\"under_an\">A</span>. Duy trì sự di truyền bền vững của từng nhóm tính trạng trong nhóm gen liên kết<br>                </label>\n            ",
+            "id": "resp6930_79961",
+            "value": "79961"
+          },
+          {
+            "content": "\n                <label for=\"resp6930_79958\">\n                    <span class=\"under_an\">B</span>. Làm tăng các biến dị tổ hợp.<br>                </label>\n            ",
+            "id": "resp6930_79958",
+            "value": "79958"
+          },
+          {
+            "content": "\n                <label for=\"resp6930_79959\">\n                    <span class=\"under_an\">C</span>. Các gen quý nằm trên các NST khác nhau có thể tổ hợp với nhau thành nhóm gen liên kết mới.<br>                </label>\n            ",
+            "id": "resp6930_79959",
+            "value": "79959"
+          },
+          {
+            "content": "\n                <label for=\"resp6930_79960\">\n                    <span class=\"under_an\">D</span>. Ứng dụng lập bản đồ di truyền.<br>                </label>\n            ",
+            "id": "resp6930_79960",
+            "value": "79960"
+          }
+        ]
+      },
+      {
+        "content": "\n    Ở người, bệnh bạch tạng do gen lặn nằm trên NST thường quy định. Bố, mẹ đều bình thường sinh ra đứa con bị bạch tạng. Kiểu gen của bố mẹ là:",
+        "info": "\n\t9.\n      ",
+        "answers": [
+          {
+            "content": "\n                <label for=\"resp6931_336672\">\n                    <span class=\"under_an\">A</span>. Đều là thể dị hợp.                </label>\n            ",
+            "id": "resp6931_336672",
+            "value": "336672"
+          },
+          {
+            "content": "\n                <label for=\"resp6931_336673\">\n                    <span class=\"under_an\">B</span>. Đều là thể đồng hợp.                </label>\n            ",
+            "id": "resp6931_336673",
+            "value": "336673"
+          },
+          {
+            "content": "\n                <label for=\"resp6931_336675\">\n                    <span class=\"under_an\">C</span>. Một người dị hợp, một người đồng hợp trội.                </label>\n            ",
+            "id": "resp6931_336675",
+            "value": "336675"
+          },
+          {
+            "content": "\n                <label for=\"resp6931_336674\">\n                    <span class=\"under_an\">D</span>. Một người là đồng hợp lặn, một người là dị hợp.                </label>\n            ",
+            "id": "resp6931_336674",
+            "value": "336674"
+          }
+        ]
+      },
+      {
+        "content": "\n    Khi cho lai giữa các cặp bố mẹ thuần chủng khác nhau về một cặp tính trạng tương phản thu được F1, cho F1 tiếp tục giao phối với nhau. ở F2 thu được kết quả kiểu hình của các phép lai khác nhau như sau:Phép lai 1 (I): 9 : 7Phép lai 2 (II): 9 : 6 : 1Phép lai 3 (III): 12 : 3 : 1Phép lai 4 (IV): 13 : 3Phép lai 5 (V): 15 : 1Phép lai 6 (VI): 9 : 3 : 4Phép lai 7 (VII): 9 : 3 : 3 : 1Khi cho F1 ở các phép lai trên lai phân tích. Kết quả sẽ cho tỉ lệ kiểu hình 3 : 1 trong các trường hợp:",
+        "info": "\n\t10.\n      ",
+        "answers": [
+          {
+            "content": "\n                <label for=\"resp6933_79789\">\n                    <span class=\"under_an\">A</span>. I, IV, V.                </label>\n            ",
+            "id": "resp6933_79789",
+            "value": "79789"
+          },
+          {
+            "content": "\n                <label for=\"resp6933_79790\">\n                    <span class=\"under_an\">B</span>. II, III, VI.                </label>\n            ",
+            "id": "resp6933_79790",
+            "value": "79790"
+          },
+          {
+            "content": "\n                <label for=\"resp6933_79791\">\n                    <span class=\"under_an\">C</span>. III, IV, VI.                </label>\n            ",
+            "id": "resp6933_79791",
+            "value": "79791"
+          },
+          {
+            "content": "\n                <label for=\"resp6933_79788\">\n                    <span class=\"under_an\">D</span>. I, II, III.                </label>\n            ",
+            "id": "resp6933_79788",
+            "value": "79788"
+          }
+        ]
+      }
+    ]
+  }
+]
